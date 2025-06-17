@@ -1,7 +1,7 @@
 
 # 📊 Data Science & Analytics Portfolio
 
-Welcome to my Data Science & Analytics Project Repository! This repository contains a curated collection of practical and academic projects that apply various data analysis, visualization, and machine learning techniques to solve real-world problems. Each folder includes datasets, Jupyter notebooks (or scripts), and output visualizations.
+Welcome to my Data Science & Analytics Project Repository! This repository contains a curated collection of practical and academic projects that apply various data analysis, visualization, and machine learning techniques to solve real-world problems. Each folder includes datasets, Jupyter notebooks, and output visualizations.
 
 ---
 
@@ -52,8 +52,8 @@ Welcome to my Data Science & Analytics Project Repository! This repository conta
 ## 📌 Getting Started
 
 Each folder contains:
-- Raw or cleaned dataset(s)
-- Python code (.ipynb or .py)
+- Raw or cleaned dataset
+- Python code (.ipynb)
 - Output plots and findings
 
 To run:
@@ -65,14 +65,14 @@ To run:
 
 ## 🛠 Technologies Used
 
-- Python 3.x
+- Python
 - Pandas, Numpy
 - Matplotlib, Seaborn, Plotly
 - Scikit-learn
-- Jupyter Notebook / Streamlit
+- Jupyter Notebook 
 
 ---
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/) or reach out for collaboration opportunities!
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/eeshan-shaikh) or reach out for collaboration opportunities!
